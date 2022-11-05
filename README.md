@@ -23,3 +23,6 @@ For more information on bundling check out [nh-bundle](https://www.npmjs.com/pac
 
 ### Documentation
 Can be found here: [https://brickhill.gitlab.io/open-source/node-hill/](https://brickhill.gitlab.io/open-source/node-hill/index.html).
+
+### Notice
+I do not own those files and i won't be probably answering for issues. If you have any issues, Please contact to the legit Developers of Brick Hill in discord.gg/brickhill (13+)
