@@ -13,7 +13,7 @@
 5. Edit the `start.js` file to fill in your appropriate server information. \
 You will need to add your host key for the set you want to host. This can be found under the set's settings page.
 
-6. Finally, start your server by launching `launch_server.bat` or by running `node ./start.js`.
+6. Finally, start your server by running `npm start` on your command prompt.
 
 ### Additional information
 You __must__ port forward if you want other players to be able to play your game. The recommended port for Brick Hill is: 42480.
